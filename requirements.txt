@@ -1,0 +1,6 @@
+pillow==11.2.1
+runpod==1.7.13
+insightface==0.7.3
+onnxruntime==1.22.1
+opencv-python==4.12.0.88
+psycopg2-binary==2.9.10
